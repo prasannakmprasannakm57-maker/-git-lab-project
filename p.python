@@ -1,0 +1,6 @@
+print("hello github")
+Name=input("enter your name:")
+print(f"welcome{name}to git")
+def add(a,b):
+    return a+b
+    print("sum is:",add(5,10)) 
